@@ -1,7 +1,6 @@
 <!--## 💫 About Me:-->
 <p align="center">
   <img src="https://i.ibb.co/98YPJjM/welcome-to.png">
-  (./assets/welcome to.gif)
 
 </p>
 
