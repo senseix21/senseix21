@@ -1,6 +1,8 @@
 <!--## 💫 About Me:-->
 <p align="center">
   <img src="https://i.ibb.co/98YPJjM/welcome-to.png">
+  (./assets/welcome to.gif)
+
 </p>
 
 <p align="center">
@@ -13,7 +15,7 @@
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials
 
 <p align="center">
   <a href="https://github.com/senseix21">
@@ -32,8 +34,7 @@
   <img src="https://img.shields.io/badge/GeeksForGeeks-239120?style=for-the-badge&logo=GeeksForGeeks&logoColor=white" alt="GeeksForGeeks"></a>
 </p>
   
-  
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 <p align="center">
     <img src="https://img.shields.io/badge/Windows-33ccff?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
@@ -45,7 +46,7 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </p>
 
-## 🔥 GitHub stats:
+## 🔥 GitHub stats
 
 <!-- GitHub Readme Streak Stats -->
 <p align="center">
@@ -61,7 +62,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
-
 
 [![Sarvesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=senseix21&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/senseix21/github-readme-activity-graph)
 
