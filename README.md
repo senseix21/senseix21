@@ -1,7 +1,7 @@
 <!--## 💫 About Me:-->
 <p align="center">
 ![Example Gif](./assets/sensei.gif)
-<img src={./assets.sensei.gif} />
+ ![Title](assets/sensei.gif)
 
 
 </p>
