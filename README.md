@@ -1,6 +1,6 @@
 <!--## 💫 About Me:-->
 <p align="center">
- <img src={.assets/sensei.gif} />
+ <img src='assets/welcome to.gif' />
 </p>
 
 <p align="center">
