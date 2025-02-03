@@ -1,4 +1,6 @@
-<!--## 💫 About Me:-->
+
+
+## 💫 About Me:
 <p align="center">
  <img src='assets/welcome to.gif' />
 </p>
@@ -23,23 +25,17 @@
 </p>
   
 ## 💻 Tech Stack
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgre SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Suppabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 ![JSON Web Token](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
@@ -58,25 +54,25 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Debain](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
-
-## 🔥 GitHub stats
+## 🔥 GitHub Stats
 
 <!-- GitHub Readme Streak Stats -->
 <p align="center">
   <a href="https://github.com/senseix21">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sarvesh's streak" src="https://streak-stats.demolab.com/?user=senseix21&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="senseix21's streak" src="https://streak-stats.demolab.com/?user=senseix21&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/senseix21"><img alt="senseix21's Github Stats" src="https://github-readme-stats.vercel.app/api?username=senseix21&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&rank_icon=github&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/SarveshMankar"><img alt="SenseiX's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senseix21&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=HTML,Jupyter%20Notebook" height="192px"/></a>
+  <a href="https://github.com/senseix21"><img alt="senseix21's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=senseix21&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&rank_icon=github&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/senseix21"><img alt="senseix21's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senseix21&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
-[![Sarvesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=senseix21&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/senseix21/github-readme-activity-graph)
+[![senseix21's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=senseix21&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/senseix21/github-readme-activity-graph)
 
 <h3 align="center">Visitor's count</h3>
-<p align="center"><img src="https://profile-counter.glitch.me/{senseix21}/count.svg/" alt="Sensei's Visitor's count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{senseix21}/count.svg/" alt="senseix21's Visitor's count" /></p>
+
