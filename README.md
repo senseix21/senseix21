@@ -32,5 +32,5 @@ If you’re building:
 
 ...I’d be happy to chat about your project.
 
-💌 [LinkedIn](https://linkedin.com/in/YOUR-PROFILE)  
+💌 [LinkedIn](https://linkedin.com/in/mehedix21)  
 🐙 Open to collaborations, contracts, and problem-solving discussions.
