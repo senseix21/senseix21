@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Sensei (Mehedi Hasan Ridoy)
 
-I'm a ** Systems Programmer & Network Engineer** who loves building reliable, high-performance systems.
+I'm a **Systems Programmer & Network Engineer** who loves building reliable, high-performance systems.
 
 ---
 
