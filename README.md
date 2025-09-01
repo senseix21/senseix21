@@ -1,55 +1,34 @@
 # 👋 Hey, I'm Sensei (Mehedi Hasan Ridoy)
 
-I’m a **Rust Systems Programmer & Network Engineer** who builds **high-performance, reliable, and distributed systems**.  
-Rust is my craft — I use it to push systems to their limits without sacrificing safety.  
+I’m a **Rust Software Engineer** with 2+ years of backend and systems programming experience.  
+I specialize in **network programming, async Rust, and performance-oriented development** — building systems that are secure, scalable, and reliable.  
 
 ---
 
-## 🦀 What I Do in Rust
-- ⚡ Systems programming (low-level performance & reliability)  
-- 🌐 Peer-to-Peer networks, NAT traversal & transport layer design  
-- 🔗 Distributed sync engines (Syncthing-like)  
-- 💾 Data consistency, replication & fault tolerance  
-- 🔒 High-performance backends for IoT, Web3 & real-time apps  
+## 🦀 What I Do
+- ⚡ Backend systems in **Rust (async, multithreaded, high-performance)**  
+- 🌐 **Networking:** TCP/UDP, QUIC, HTTP/HTTPS, DNS, sockets  
+- 🔒 **API Security** & privacy-first infrastructure  
+- 🖥️ **Linux systems programming** (syscalls, memory management, tooling)  
+- 🛠️ OSS contributions in the **Leptos** & Rust ecosystem  
 
 ---
 
-## 💡 Rust Tech I Work With
-- 📡 **Networking:** TCP/UDP, QUIC, HTTP/3, gRPC  
-- 🏗️ **Architecture:** Event-driven, async Rust, microservices, P2P networks  
-- ☁️ **Cloud:** AWS, GCP, Kubernetes (deploying Rust at scale)  
-- 🔬 **Core Skills:** Systems design, distributed consensus, fault-tolerant infra  
-
----
-
-## 🚀 Current Focus
-Right now, I’m building:  
-- ⚡ Rust-based distributed sync engines  
-- 🌐 P2P networking frameworks  
-- 🔒 Secure & optimized Rust backends  
-
----
-
-## 📊 GitHub Stats
-![Sensei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehedix21&show_icons=true&theme=tokyonight&hide_border=true)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedix21&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehedix21&theme=tokyonight&hide_border=true)  
+## 💡 Skills
+- **Languages:** Rust, Go, Bash  
+- **Networking:** TCP/UDP, QUIC, HTTP/3, DNS  
+- **Systems:** Linux syscalls, async concurrency, multithreading, memory mgmt  
+- **Tools:** Docker, Git, CI/CD, Tailwind, Leptos, Trunk  
+- **Soft Skills:** Debugging, performance tuning, OSS collaboration, rapid learning  
 
 ---
 
 ## 📬 Let’s Connect
-If you’re building:  
-✅ A distributed system  
-✅ A sync engine  
-✅ A networked application in Rust  
-
-…I’d love to collaborate.  
-
-💌 [LinkedIn](https://linkedin.com/in/mehedix21)  
-🐙 Open to collaborations, contracts & system-level problem solving  
+- 💌 [Email](mailto:mehedihasanx2118@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mehedix21)  
+- 🐙 [GitHub](https://github.com/senseix21)  
+- 🌍 [Portfolio](https://mehedi-hasan-rust.vercel.app/)  
 
 ---
 
-🔥 **Rust isn’t just a language — it’s how I engineer software that lasts.**  
+🔥 **Rust isn’t just my language — it’s how I engineer software that lasts.**
