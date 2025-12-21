@@ -8,7 +8,6 @@
   <a href="https://www.linkedin.com/in/mehedix21">LinkedIn</a> ·
   <a href="mailto:mehedihasanx2118@gmail.com">Email</a> ·
   <a href="https://github.com/senseix21?tab=repositories&q=&type=&language=rust">Rust Repos</a> ·
-  <a href="https://nonos.systems">NØNOS</a>
 </p>
 
 ---
